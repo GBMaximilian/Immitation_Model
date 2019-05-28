@@ -1,0 +1,25 @@
+C:\Users\Георгий\source\repos\Дипломчик\Дипломчик\bin\Debug\Дипломчик.exe.config
+C:\Users\Георгий\source\repos\Дипломчик\Дипломчик\bin\Debug\Дипломчик.exe
+C:\Users\Георгий\source\repos\Дипломчик\Дипломчик\bin\Debug\Дипломчик.pdb
+C:\Users\Георгий\source\repos\Дипломчик\Дипломчик\obj\Debug\Дипломчик.csprojAssemblyReference.cache
+C:\Users\Георгий\source\repos\Дипломчик\Дипломчик\obj\Debug\Дипломчик.Properties.Resources.resources
+C:\Users\Георгий\source\repos\Дипломчик\Дипломчик\obj\Debug\Дипломчик.TB.resources
+C:\Users\Георгий\source\repos\Дипломчик\Дипломчик\obj\Debug\Дипломчик.csproj.GenerateResource.cache
+C:\Users\Георгий\source\repos\Дипломчик\Дипломчик\obj\Debug\Дипломчик.csproj.CoreCompileInputs.cache
+C:\Users\Георгий\source\repos\Дипломчик\Дипломчик\obj\Debug\Дипломчик.exe
+C:\Users\Георгий\source\repos\Дипломчик\Дипломчик\obj\Debug\Дипломчик.pdb
+C:\Users\Георгий\source\repos\Дипломчик\Дипломчик\obj\Debug\Дипломчик.Form1.resources
+C:\Users\Георгий\source\repos\Дипломчик\Дипломчик\obj\Debug\Дипломчик.MP.resources
+C:\Users\Георгий\Desktop\жалкие потуги\Дипломчик\Дипломчик\bin\Debug\Дипломчик.exe.config
+C:\Users\Георгий\Desktop\жалкие потуги\Дипломчик\Дипломчик\bin\Debug\Дипломчик.exe
+C:\Users\Георгий\Desktop\жалкие потуги\Дипломчик\Дипломчик\bin\Debug\Дипломчик.pdb
+C:\Users\Георгий\Desktop\жалкие потуги\Дипломчик\Дипломчик\obj\Debug\Дипломчик.csprojAssemblyReference.cache
+C:\Users\Георгий\Desktop\жалкие потуги\Дипломчик\Дипломчик\obj\Debug\Дипломчик.MP.resources
+C:\Users\Георгий\Desktop\жалкие потуги\Дипломчик\Дипломчик\obj\Debug\Дипломчик.Properties.Resources.resources
+C:\Users\Георгий\Desktop\жалкие потуги\Дипломчик\Дипломчик\obj\Debug\Дипломчик.TB.resources
+C:\Users\Георгий\Desktop\жалкие потуги\Дипломчик\Дипломчик\obj\Debug\Дипломчик.csproj.GenerateResource.cache
+C:\Users\Георгий\Desktop\жалкие потуги\Дипломчик\Дипломчик\obj\Debug\Дипломчик.csproj.CoreCompileInputs.cache
+C:\Users\Георгий\Desktop\жалкие потуги\Дипломчик\Дипломчик\obj\Debug\Дипломчик.exe
+C:\Users\Георгий\Desktop\жалкие потуги\Дипломчик\Дипломчик\obj\Debug\Дипломчик.pdb
+C:\Users\Георгий\Desktop\жалкие потуги\Дипломчик\Дипломчик\obj\Debug\Дипломчик.Start_Form.resources
+C:\Users\Георгий\Desktop\жалкие потуги\Дипломчик\Дипломчик\obj\Debug\Дипломчик.MAIN_Form.resources
